@@ -16,7 +16,7 @@ mysql-connector-python==2.0.4
 pip==9.0.3
 pluggy==0.6.0
 poyo==0.4.1
-py==1.5.3
+py==1.10.0
 PyMySQL==0.8.0
 pytest==3.5.0
 python-dateutil==2.6.1
