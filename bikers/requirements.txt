@@ -13,7 +13,7 @@ jinja2-time==0.2.0
 MarkupSafe==1.0
 more-itertools==4.1.0
 mysql-connector-python==2.0.4
-pip==9.0.3
+pip==19.2
 pluggy==0.6.0
 poyo==0.4.1
 py==1.5.3
